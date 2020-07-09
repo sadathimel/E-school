@@ -1,0 +1,76 @@
+.container{
+    margin-bottom: 100px;
+}
+.bye-now-button{
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+
+.bg-navbarbg {
+    background-color: #F0FFF0;
+}
+.navbar-brand img {
+    width: 150px;
+    height: 50px;
+}
+.navbarclass h1{
+    font-weight: 700;
+}
+.navbarclass h5{
+    color: red;
+}
+.any{
+    color: #21B573;
+}
+.cat2{
+    background: #F8FFFB;
+    margin-right: 20px;
+    border-radius: 10px;
+    padding:40px;
+}
+.cat2 img{
+    width: 40px;
+    height: 40px;
+}
+.cat3{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    background-color: white;
+}
+.onlinecourses{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-radius: 10px;
+    
+}
+.icon i img{
+    width: 24px;
+    height: 24px;
+}
+.man img{
+    width: 120px;
+    height: 120px;
+}
+#subscribe{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.footerclass{
+    background-color: #282531;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footeraa a{
+    text-decoration: none;
+    color: white;
+}
